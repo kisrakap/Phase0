@@ -1,0 +1,17 @@
+======Algorithm====
+
+set value of m = 600
+set value of a = 2
+set SF as a result
+calculate SF by multiply m and a
+save the result
+show result
+
+======Pseudocode=======
+
+STORE m with value = 600
+STORE a WITH VALUE = 2
+STORE F with any value
+ cALcULATE "m" times "a" 
+SET "F" value with calculation result
+DISPLAY "SF"

@@ -1,0 +1,18 @@
+======Algorithm====
+
+set value of 2
+set value of pi
+set value of jari-jari
+set Keliling as a result
+calculate Keliling by multiply 2 and pi and jari-jari
+save the result
+show result
+
+======Pseudocode=======
+
+STORE p with value = 3.14
+STORE 2 WITH VALUE = 2
+STORE jari_jari with any value
+ cALcULATE "p" times "2" times "jari-jari"
+SET "Keliling" value with calculation result
+DISPLAY "Keliling"
