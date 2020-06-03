@@ -1,0 +1,9 @@
+Start adding Chlotes in to washing machine until all Clothes inside
+put clothes in machine one by one 
+when all the Clothes inside washing machine then turn on 
+
+START Clothes with 0
+WHILE Clothes less than 20 
+	ADD Clothes by 1
+End While
+turn on washing Machine
